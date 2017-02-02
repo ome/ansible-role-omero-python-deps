@@ -20,4 +20,4 @@
     name: "{{ item }}"
     state: present
   with_items:
-  - "Pillow==2.9"
+  - "Pillow<3.4"
