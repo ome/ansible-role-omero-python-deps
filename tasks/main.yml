@@ -20,8 +20,9 @@
     - python-numexpr
     - python-tables
     - python-pip
-    - PyYAML
+    - python-yaml
     - scipy
+
   when: "{{ omero_python_deps_recommended }}"
 
 - include: distribution.yml
