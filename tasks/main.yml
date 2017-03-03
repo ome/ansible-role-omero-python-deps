@@ -21,7 +21,7 @@
     - python-tables
     - python-pip
     - PyYAML
-    - requests
+    - python-requests
     - scipy
   when: "{{ omero_python_deps_recommended }}"
 
