@@ -16,4 +16,5 @@
     - python-pip
     - python-tables
     - PyYAML
+    - python-requests
     - scipy
