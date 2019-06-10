@@ -2,7 +2,7 @@ OMERO Python Dependencies
 =========================
 
 [![Build Status](https://travis-ci.org/ome/ansible-role-omero-python-deps.svg)](https://travis-ci.org/ome/ansible-role-omero-python-deps)
-[![Ansible Role](https://img.shields.io/ansible/role/14771.svg)](https://galaxy.ansible.com/ome/omero_python_deps/)
+[![Ansible Role](https://img.shields.io/ansible/role/41082.svg)](https://galaxy.ansible.com/ome/omero_python_deps/)
 
 Python dependencies for OMERO.
 
